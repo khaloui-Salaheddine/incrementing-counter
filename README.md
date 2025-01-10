@@ -4,7 +4,7 @@
 
 ## 🦉 Main information
 
-Incrementing Counter built with Html, CSS and Vanilla JavaScript.
+Incrementing Counter built with Html, CSS and  JavaScript.
 
 The project goal:
 
